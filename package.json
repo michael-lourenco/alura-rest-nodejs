@@ -19,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/michael-lourenco/alura-rest-nodejs/issues"
   },
-  "homepage": "https://github.com/michael-lourenco/alura-rest-nodejs#readme"
+  "homepage": "https://github.com/michael-lourenco/alura-rest-nodejs#readme",
+  "dependencies": {
+    "express": "^4.17.2"
+  }
 }
