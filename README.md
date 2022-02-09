@@ -8,7 +8,7 @@ Este projeto engloba 2(dois) cursos realizados através da plataforma [Alura](ht
  - `API`
 
 ## Rest com NodeJS: API com Express e MySQL
-### Instrutor: [Juliana Negreiros](https://www.linkedin.com/in/juliananegreiros)
+### Instrutora: [Juliana Negreiros](https://www.linkedin.com/in/juliananegreiros)
 
 Conhecimentos adquiridos:
  - Aprender a criar `API REST`
@@ -19,7 +19,7 @@ Conhecimentos adquiridos:
  - Enviar erros descritivos para o usuário
 
 ## NodeJS: Streaming de dados e Repositório
-### Instrutor: [Juliana Negreiros](https://www.linkedin.com/in/juliananegreiros)
+### Instrutora: [Juliana Negreiros](https://www.linkedin.com/in/juliananegreiros)
 
 Conhecimentos adquiridos:
  - Aprender a separar o código por responsabilidade
